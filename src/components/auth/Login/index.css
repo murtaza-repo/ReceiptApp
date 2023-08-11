@@ -1,0 +1,54 @@
+
+  .auth-wrapper h3 {
+    text-align: center;
+    margin: 0;
+    line-height: 1;
+    padding-bottom: 20px;
+  }
+
+  .custom-control-label {
+    font-weight: 400;
+  }
+  
+  .forgot-password,
+  .forgot-password a {
+    text-align: right;
+    font-size: 13px;
+    padding-top: 10px;
+    color: #7f7d7d;
+    margin: 0;
+  }
+  
+  .forgot-password a {
+    color: rgba(234,195,40);
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: none;
+  }
+  
+  .btn-primary{
+    background-color: rgba(234,195,40) !important;
+    border: none !important;
+  }
+  
+  .logo-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid rgba(234,195,40, .7) !important;
+    padding: 25px;
+    border-radius: 50%;
+    height: 170px;
+
+  }
+
+  .logo-img img{
+    width: 120px;
+  }
+  
+  .center-div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

@@ -1,0 +1,16 @@
+.pagination > div{
+    align-items: baseline !important;
+    padding-left: 1rem !important;
+    margin-top: 1rem;
+}
+
+td{
+    border-bottom: none !important;
+}
+
+.custom-table{
+    display: table;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+}
